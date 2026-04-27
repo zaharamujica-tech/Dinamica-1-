@@ -1,1 +1,1 @@
-# Dinamica-1-
+Algoritmos y programación
